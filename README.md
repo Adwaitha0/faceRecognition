@@ -59,7 +59,9 @@ Laptop with USB port
 📂 Project Structure
 
 ProjectDoor/
+
 │
+
 ├── AuthorizedImages/        # Reference images of authorized users
 
 ├── CapturedFace/            # Stores images of detected faces
