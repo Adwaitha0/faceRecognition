@@ -61,9 +61,13 @@ Laptop with USB port
 ProjectDoor/
 │
 ├── AuthorizedImages/        # Reference images of authorized users
+
 ├── CapturedFace/            # Stores images of detected faces
+
 ├── .env                     # Contains email credentials
+
 ├── face_recognition_door.py # Main Python script
+
 └── README.md                # This file
 
 
