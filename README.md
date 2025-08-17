@@ -77,7 +77,7 @@ ProjectDoor/
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/ProjectDoor.git
+git clone https://github.com/Adwaitha0/faceRecognition.git
 
 cd ProjectDoor
 
